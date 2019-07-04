@@ -1,0 +1,22 @@
+---
+homebrew_cask_appdir: /Applications
+
+homebrew_taps:
+  - homebrew/core
+  - homebrew/cask
+
+homebrew_installed_packages:
+  - git
+  - httpie
+  - wget
+  - wrk
+
+homebrew_cask_apps:
+  - chromedriver
+  - docker
+  - firefox
+  - google-chrome
+  - licecap
+  - sequel-pro
+  - slack
+  - vagrant
